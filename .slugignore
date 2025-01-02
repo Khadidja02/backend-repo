@@ -1,0 +1,68 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+dash/
+
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python tools
+*.coverage
+*.tox
+*.nox
+*.coverage.*
+.cache
+nose2*
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+*.pkl
+
+# DLL and LIB files
+*.dll
+*.lib
+
+# Django specific
+*.log
+*.pot
+*.pyc
+db.sqlite3
+
+# Other temporary files
+*.bak
+*.tmp
+Dockerfile
+
+
+/staticfiles/
+
+
+static/.DS_Store
+static/Thumbs.db

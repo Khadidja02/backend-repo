@@ -10,7 +10,7 @@ dash/
 
 # Distribution / packaging
 dist/
-build/
+build/static/
 *.egg-info/
 
 # Logs

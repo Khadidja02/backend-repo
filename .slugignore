@@ -61,7 +61,7 @@ db.sqlite3
 Dockerfile
 
 
-/staticfiles/
+staticfiles/
 
 
 static/.DS_Store
